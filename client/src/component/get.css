@@ -1,0 +1,8 @@
+.nav_block {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  height: 170px;
+}
